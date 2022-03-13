@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine On
-RewriteRule ^test.*$ http://rbaks.github.io/test-rewrite [R=301,L]
