@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^test-rewrite.*$ http://rbaks.github.io/test [R=301,L]
+RewriteRule ^test.*$ http://rbaks.github.io/test-rewrite [R=301,L]
